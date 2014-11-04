@@ -348,3 +348,4 @@ GitHub simpler:
 * [hub in Ruby](https://github.com/github/hub/tree/1.12-stable) (previous implementation)
 * [eg](http://www.gnome.org/~newren/eg/)
 * [github-gem](https://github.com/defunkt/github-gem)
+
